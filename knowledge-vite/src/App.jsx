@@ -21,7 +21,7 @@ function App() {
     <div className="app-container">
       {showLanding ? (
         <div className="landing-container">
-          <h1>Knowledge Sheets</h1>
+          <h1>Pages from an intimate note to the Sincere Seeker</h1>
           <div className="quote-card" onClick={showRandomSheet}>
             <div className="quote-image-container">
               <img 
