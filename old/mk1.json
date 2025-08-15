@@ -1,0 +1,3287 @@
+[
+    {
+        "week_number": 1,
+        "location": "Big Sur, California",
+        "date": "21 Jun 1995",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 1,
+        "location": "Big Sur, California",
+        "date": "21 Jun 1995",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 2,
+        "location": "Big Sur, California",
+        "date": "21 Jun 1995",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 3,
+        "location": "California",
+        "date": "29 Jun 1995",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 4,
+        "location": "Toronto",
+        "date": "04 Jul 1995",
+        "country": "Canada",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 5,
+        "location": "Montreal Ashram",
+        "date": "12 Jul 1995",
+        "country": "Canada",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 6,
+        "location": "Montreal Ashram",
+        "date": "20 Jul 1995",
+        "country": "Canada",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 7,
+        "location": "Montreal Ashram",
+        "date": "24 Jul 1995",
+        "country": "Canada",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 8,
+        "location": "Connecticut",
+        "date": "30 Jul 1995",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 9,
+        "location": "Braunlage",
+        "date": "10 Aug 1995",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 10,
+        "location": "Rotterdam",
+        "date": "16 Aug 1995",
+        "country": "Netherlands",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 11,
+        "location": "London",
+        "date": "24 Aug 1995",
+        "country": "United Kingdom",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 12,
+        "location": "Bangalore Ashram",
+        "date": "31 Aug 1995",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 13,
+        "location": "Bangalore Ashram",
+        "date": "06 Sep 1995",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 14,
+        "location": "Melbourne",
+        "date": "13 Sep 1995",
+        "country": "Austrailia",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 15,
+        "location": "Bangalore Ashram",
+        "date": "21 Sep 1995",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 16,
+        "location": "Bangalore Ashram",
+        "date": "27 Sep 1995",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 17,
+        "location": "Bangalore Ashram",
+        "date": "05 Oct 1995",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 18,
+        "location": "Bangalore Ashram",
+        "date": "10 Oct 1995",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 19,
+        "location": "Nova Scotia",
+        "date": "17 Oct 1995",
+        "country": "Canada",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 20,
+        "location": "Montreal Ashram",
+        "date": "24 Oct 1995",
+        "country": "Canada",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 21,
+        "location": "London",
+        "date": "01 Nov 1995",
+        "country": "United Kingdom",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 22,
+        "location": "New Delhi",
+        "date": "09 Nov 1995",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 23,
+        "location": "Bangalore Ashram",
+        "date": "15 Nov 1995",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 24,
+        "location": "Bangalore Ashram",
+        "date": "23 Nov 1995",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 25,
+        "location": "Bangalore Ashram",
+        "date": "29 Nov 1995",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 26,
+        "location": "Bangalore Ashram",
+        "date": "07 Dec 1995",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 27,
+        "location": "Bangalore Ashram",
+        "date": "14 Dec 1995",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 28,
+        "location": "Gyan Mandir, Bangalore",
+        "date": "21 Dec 1995",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 29,
+        "location": "Weggis",
+        "date": "27 Dec 1995",
+        "country": "Switzerland",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 30,
+        "location": "Weggis",
+        "date": "05 Jan 1996",
+        "country": "Switzerland",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 31,
+        "location": "Weggis",
+        "date": "11 Jan 1996",
+        "country": "Switzerland",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 32,
+        "location": "Ljubljana",
+        "date": "16 Jan 1996",
+        "country": "Slovenia",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 33,
+        "location": "Kauai, Hawaii",
+        "date": "24 Jan 1996",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 34,
+        "location": "Honolulu, Hawaii",
+        "date": "01 Feb 1996",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 35,
+        "location": "Miami Beach, Florida",
+        "date": "08 Feb 1996",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 36,
+        "location": "London",
+        "date": "14 Feb 1996",
+        "country": "United Kingdom",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 37,
+        "location": "Oslo",
+        "date": "21 Feb 1996",
+        "country": "Norway",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 38,
+        "location": "Bangalore Ashram",
+        "date": "29 Feb 1996",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 39,
+        "location": "Bangalore Ashram",
+        "date": "06 Mar 1996",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 40,
+        "location": "Rishikesh",
+        "date": "13 Mar 1996",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 41,
+        "location": "Rishikesh",
+        "date": "20 Mar 1996",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 42,
+        "location": "Bangalore Ashram",
+        "date": "26 Mar 1996",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 43,
+        "location": "Sydney",
+        "date": "03 Apr 1996",
+        "country": "Australia",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 44,
+        "location": "Jakarta",
+        "date": "10 Apr 1996",
+        "country": "Indonesia",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 45,
+        "location": "Bali Cliff Resort",
+        "date": "18 Apr 1996",
+        "country": "Indonesia",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 46,
+        "location": "Bangalore Ashram",
+        "date": "24 Apr 1996",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 47,
+        "location": "Bangalore Ashram",
+        "date": "02 May 1996",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 48,
+        "location": "Bangalore Ashram",
+        "date": "09 May 1996",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 49,
+        "location": "Bangalore Ashram",
+        "date": "16 May 1996",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 50,
+        "location": "Bangalore Ashram",
+        "date": "21 May 1996",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 51,
+        "location": "der Haag",
+        "date": "29 May 1996",
+        "country": "Netherlands",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 52,
+        "location": "Bad Antogast",
+        "date": "05 Jun 1996",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 53,
+        "location": "St. Louis, Missouri",
+        "date": "13 Jun 1996",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 54,
+        "location": "Somewhere in Beautiful British Columbia",
+        "date": "19 Jun 1996",
+        "country": "Canada",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 55,
+        "location": "Canadian Ashram",
+        "date": "26 Jun 1996",
+        "country": "Canada",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 56,
+        "location": "Canadian Ashram",
+        "date": "03 Jul 1996",
+        "country": "Canada",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 57,
+        "location": "San Jose, California",
+        "date": "11 Jul 1996",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 58,
+        "location": "Bad Antogast",
+        "date": "17 Jul 1996",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 59,
+        "location": "Bad Antogast",
+        "date": "24 Jul 1996",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 60,
+        "location": "Bad Antogast",
+        "date": "31 Jul 1996",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 61,
+        "location": "Los Angeles, California",
+        "date": "07 Aug 1996",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 62,
+        "location": "Santa Monica, California",
+        "date": "14 Aug 1996",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 63,
+        "location": "London",
+        "date": "22 Aug 1996",
+        "country": "United Kingdom",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 64,
+        "location": "Grimstad",
+        "date": "28 Aug 1996",
+        "country": "Norway",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 65,
+        "location": "Bangalore Ashram",
+        "date": "05 Sep 1996",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 66,
+        "location": "Bangalore Ashram",
+        "date": "12 Sep 1996",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 67,
+        "location": "Bangalore, Ashram",
+        "date": "19 Sep 1996",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 68,
+        "location": "Bangalore Ashram",
+        "date": "25 Sep 1996",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 69,
+        "location": "Bad Antogast",
+        "date": "02 Oct 1996",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 70,
+        "location": "Mumbai",
+        "date": "09 Oct 1996",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 71,
+        "location": "Bangalore Ashram",
+        "date": "16 Oct 1996",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 72,
+        "location": "Bangalore Ashram",
+        "date": "24 Oct 1996",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 73,
+        "location": "Hong Kong",
+        "date": "31 Oct 1996",
+        "country": "Hong Kong",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 74,
+        "location": "Kyoto",
+        "date": "06 Nov 1996",
+        "country": "Japan",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 75,
+        "location": "Kuala Lumpur",
+        "date": "14 Nov 1996",
+        "country": "Malaysia",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 76,
+        "location": "Calcutta",
+        "date": "20 Nov 1996",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 77,
+        "location": "New Delhi",
+        "date": "28 Nov 1996",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 78,
+        "location": "Thiruvananthapuram, Kerala",
+        "date": "05 Dec 1996",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 79,
+        "location": "Bangalore Ashram",
+        "date": "12 Dec 1996",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 80,
+        "location": "Bangalore Ashram",
+        "date": "19 Dec 1996",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 81,
+        "location": "Lake Lucerne",
+        "date": "25 Dec 1996",
+        "country": "Switzerland",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 82,
+        "location": "Lake Lucerne",
+        "date": "01 Jan 1997",
+        "country": "Switzerland",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 83,
+        "location": "Bad Antogast",
+        "date": "08 Jan 1997",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 84,
+        "location": "Trinidad",
+        "date": "15 Jan 1997",
+        "country": "Caribbean",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 85,
+        "location": "Dallas, Texas",
+        "date": "22 Jan 1997",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 86,
+        "location": "City of Angels -- Los Angeles, California",
+        "date": "30 Jan 1997",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 87,
+        "location": "Your Home Town",
+        "date": "07 Feb 1997",
+        "country": "Your Country",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 88,
+        "location": "Fort Lauderdale, Florida",
+        "date": "12 Feb 1997",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 89,
+        "location": "Guess Where?",
+        "date": "19 Feb 1997",
+        "country": "Guess Where?",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 90,
+        "location": "Honolulu, Hawaii",
+        "date": "26 Feb 1997",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 91,
+        "location": "Singapore",
+        "date": "05 Mar 1997",
+        "country": "Singapore",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 92,
+        "location": "New Delhi",
+        "date": "13 Mar 1997",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 93,
+        "location": "Rishikesh",
+        "date": "19 Mar 1997",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 94,
+        "location": "Rishikesh",
+        "date": "26 Mar 1997",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 95,
+        "location": "Rishikesh",
+        "date": "03 Apr 1997",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 96,
+        "location": "Rishikesh",
+        "date": "10 Apr 1997",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 97,
+        "location": "Calcutta",
+        "date": "17 Apr 1997",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 98,
+        "location": "Banglore Ashram",
+        "date": "24 Apr 1997",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 99,
+        "location": "Bangalore Ashram",
+        "date": "30 Apr 1997",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 100,
+        "location": "Mauritius",
+        "date": "07 May 1997",
+        "country": "Mauritius",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 101,
+        "location": "Bad Antogast",
+        "date": "14 May 1997",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 102,
+        "location": "Vienna",
+        "date": "21 May 1997",
+        "country": "Austria",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 103,
+        "location": "Marseilles",
+        "date": "28 May 1997",
+        "country": "France",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 104,
+        "location": "Bus on the Tour-de-France",
+        "date": "03 Jun 1997",
+        "country": "France",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 105,
+        "location": "Montreal",
+        "date": "10 Jun 1997",
+        "country": "Canada",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 106,
+        "location": "Montreal Ashram",
+        "date": "18 Jun 1997",
+        "country": "Canada",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 107,
+        "location": "Montreal Ashram",
+        "date": "25 Jun 1997",
+        "country": "Canada",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 108,
+        "location": "Quebec Ashram",
+        "date": "02 Jul 1997",
+        "country": "Canada",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 109,
+        "location": "Montreal Ashram",
+        "date": "09 Jul 1997",
+        "country": "Canada",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 110,
+        "location": "Topanga Canyon, California",
+        "date": "16 Jul 1997",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 111,
+        "location": "Tahoe City, California",
+        "date": "23 Jul 1997",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 112,
+        "location": "Bad Antogast",
+        "date": "30 Jul 1997",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 113,
+        "location": "Bad Antogast",
+        "date": "06 Aug 1997",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 114,
+        "location": "Stockholm",
+        "date": "13 Aug 1997",
+        "country": "Sweden",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 115,
+        "location": "Copenhagen",
+        "date": "20 Aug 1997",
+        "country": "Denmark",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 116,
+        "location": "Bad Antogast",
+        "date": "27 Aug 1997",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 117,
+        "location": "Mumbai",
+        "date": "03 Sep 1997",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 118,
+        "location": "Bangalore Ashram",
+        "date": "10 Sep 1997",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 119,
+        "location": "Bangalore Ashram",
+        "date": "17 Sep 1997",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 120,
+        "location": "Bangalore Ashram",
+        "date": "24 Sep 1997",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 121,
+        "location": "Bangalore Ashram",
+        "date": "01 Oct 1997",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 122,
+        "location": "Bangalore Ashram",
+        "date": "08 Oct 1997",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 123,
+        "location": "Bangalore Ashram",
+        "date": "16 Oct 1997",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 124,
+        "location": "National Highway #7, Between Bangalore and Shimoga",
+        "date": "23 Oct 1997",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 125,
+        "location": "Rishikesh",
+        "date": "30 Oct 1997",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 126,
+        "location": "Rishikesh",
+        "date": "06 Nov 1997",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 127,
+        "location": "Jaipur, Rajasthan",
+        "date": "13 Nov 1997",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 128,
+        "location": "Banglore Ashram",
+        "date": "20 Nov 1997",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 129,
+        "location": "Banglore Ashram",
+        "date": "27 Nov 1997",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 130,
+        "location": "Calicut",
+        "date": "03 Dec 1997",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 131,
+        "location": "Banglore Ashram",
+        "date": "10 Dec 1997",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 132,
+        "location": "Banglore Ashram",
+        "date": "18 Dec 1997",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 133,
+        "location": "German Akademie Bad Antogast",
+        "date": "24 Dec 1997",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 134,
+        "location": "German Akademie Bad Antogast",
+        "date": "31 Dec 1997",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 135,
+        "location": "Milano",
+        "date": "07 Jan 1998",
+        "country": "Italy",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 136,
+        "location": "Paramaribo",
+        "date": "14 Jan 1998",
+        "country": "Surinam",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 137,
+        "location": "Williams Island,Florida",
+        "date": "21 Jan 1998",
+        "country": "U.S.A",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 138,
+        "location": "Santa Monica, California",
+        "date": "28 Jan 1998",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 139,
+        "location": "Kauai, Hawaii",
+        "date": "03 Feb 1998",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 140,
+        "location": "Singapur",
+        "date": "12 Feb 1998",
+        "country": "Singapur",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 141,
+        "location": "Bangalore Ashram",
+        "date": "18 Feb 1998",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 142,
+        "location": "Banglore Ashram",
+        "date": "24 Feb 1998",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 143,
+        "location": "Rishikesh",
+        "date": "04 Mar 1998",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 144,
+        "location": "Rishikesh",
+        "date": "11 Mar 1998",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 145,
+        "location": "Rishikesh",
+        "date": "19 Mar 1998",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 146,
+        "location": "Lake Side,Chandigarh",
+        "date": "26 Mar 1998",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 147,
+        "location": "Calcutta",
+        "date": "02 Apr 1998",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 148,
+        "location": "Bangalore Ashram",
+        "date": "09 Apr 1998",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 149,
+        "location": "Bad Antogast",
+        "date": "15 Apr 1998",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 151,
+        "location": "Hamburg",
+        "date": "29 Apr 1998",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 152,
+        "location": "Rome",
+        "date": "06 May 1998",
+        "country": "Italy",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 153,
+        "location": "Bangalore Ashram",
+        "date": "14 May 1998",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 154,
+        "location": "Bangalore Ashram",
+        "date": "21 May 1998",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 155,
+        "location": "Bangalore Ashram",
+        "date": "28 May 1998",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 156,
+        "location": "Curepipe",
+        "date": "03 Jun 1998",
+        "country": "Mauritius",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 157,
+        "location": "New York City,NY",
+        "date": "10 Jun 1998",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 158,
+        "location": "Baltimore,Maryland",
+        "date": "17 Jun 1998",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 159,
+        "location": "St.Louis, Missouri",
+        "date": "24 Jun 1998",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 160,
+        "location": "Vancouver,British Columbia",
+        "date": "01 Jul 1998",
+        "country": "Canada",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 161,
+        "location": "LakeTahoe, California",
+        "date": "09 Jul 1998",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 162,
+        "location": "Alpine Meadows,California",
+        "date": "15 Jul 1998",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 163,
+        "location": "Highway 25 Between Boulder and Denver, Colorado",
+        "date": "23 Jul 1998",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 164,
+        "location": "Montreal Ashram",
+        "date": "30 Jul 1998",
+        "country": "Canada",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 165,
+        "location": "Europeon Akademie,Bad Antogast",
+        "date": "04 Aug 1998",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 166,
+        "location": "Nice Antogast",
+        "date": "13 Aug 1998",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 167,
+        "location": "Geilo",
+        "date": "19 Aug 1998",
+        "country": "Norway",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 168,
+        "location": "Hamburg",
+        "date": "26 Aug 1998",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 169,
+        "location": "Muszyna",
+        "date": "03 Sep 1998",
+        "country": "Poland",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 170,
+        "location": "Bangalore Ashram",
+        "date": "10 Sep 1998",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 171,
+        "location": "Banglore Ashram",
+        "date": "17 Sep 1998",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 172,
+        "location": "Bangalore Ashram",
+        "date": "24 Sep 1998",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 173,
+        "location": "Bangalore Ashram",
+        "date": "02 Oct 1998",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 174,
+        "location": "Lonay, Lake Geneva",
+        "date": "07 Oct 1998",
+        "country": "Switzerland",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 175,
+        "location": "Montreal Ashram",
+        "date": "14 Oct 1998",
+        "country": "Canada",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 176,
+        "location": "Quebec Ashram",
+        "date": "21 Oct 1998",
+        "country": "Canada",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 177,
+        "location": "Vancover, B.C",
+        "date": "28 Oct 1998",
+        "country": "Canada",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 178,
+        "location": "New Delhi",
+        "date": "05 Nov 1998",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 179,
+        "location": "Bangalore Ashram",
+        "date": "12 Nov 1998",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 180,
+        "location": "Bangalore Ashram",
+        "date": "19 Nov 1998",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 181,
+        "location": "Bangalore Ashram",
+        "date": "26 Nov 1998",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 182,
+        "location": "Cochin",
+        "date": "03 Dec 1998",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 183,
+        "location": "Bangalore Ashram",
+        "date": "10 Dec 1998",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 184,
+        "location": "Bangalore Ashram",
+        "date": "17 Dec 1998",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 185,
+        "location": "Bad Antogast Ashram",
+        "date": "30 Dec 1998",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 186,
+        "location": "Bad Antogast",
+        "date": "06 Jan 1999",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 187,
+        "location": "Bad Antogast",
+        "date": "13 Jan 1999",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 188,
+        "location": "Bad Antogast",
+        "date": "21 Jan 1999",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 189,
+        "location": "Bad Antogast",
+        "date": "26 Jan 1999",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 190,
+        "location": "Bangalore Ashram",
+        "date": "03 Feb 1999",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 191,
+        "location": "Bangalore Ashram",
+        "date": "12 Feb 1999",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 192,
+        "location": "Bangalore Ashram",
+        "date": "18 Feb 1999",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 193,
+        "location": "Calcutta",
+        "date": "25 Feb 1999",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 194,
+        "location": "Rishikesh",
+        "date": "04 Mar 1999",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 195,
+        "location": "Rishikesh",
+        "date": "11 Mar 1999",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 196,
+        "location": "Rishikesh",
+        "date": "18 Mar 1999",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 197,
+        "location": "Rishikesh",
+        "date": "26 Mar 1999",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 198,
+        "location": "Banglore Ashram",
+        "date": "08 Apr 1999",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 199,
+        "location": "Kauai, Hawaii",
+        "date": "15 Apr 1999",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 200,
+        "location": "Apple Valley, California",
+        "date": "21 Apr 1999",
+        "country": "United States",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 201,
+        "location": "Santa Barbara, California",
+        "date": "28 Apr 1999",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 202,
+        "location": "Boston, Massachusetts",
+        "date": "06 May 1999",
+        "country": "United States",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 203,
+        "location": "Bad Antogast",
+        "date": "13 May 1999",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 204,
+        "location": "Bad Antogast",
+        "date": "20 May 1999",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 205,
+        "location": "Bad Antogast",
+        "date": "27 May 1999",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 206,
+        "location": "Oslo",
+        "date": "02 Jun 1999",
+        "country": "Norway",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 207,
+        "location": "Salvador Bahia",
+        "date": "09 Jun 1999",
+        "country": "Brasil",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 208,
+        "location": "Arenal Volcano",
+        "date": "16 Jun 1999",
+        "country": "Tabacon, Costa Rica",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 209,
+        "location": "East Dover",
+        "date": "23 Jun 1999",
+        "country": "Canada",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 210,
+        "location": "North American Ashram",
+        "date": "30 Jun 1999",
+        "country": "Quebec,Canada",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 211,
+        "location": "Canada Ashram",
+        "date": "08 Jul 1999",
+        "country": "Canada",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 212,
+        "location": "Seattle,Washington",
+        "date": "14 Jul 1999",
+        "country": "United States",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 213,
+        "location": "Lake Tahoe, California",
+        "date": "21 Jul 1999",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 214,
+        "location": "Lake Tahoe, California",
+        "date": "28 Jul 1999",
+        "country": "United States",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 215,
+        "location": "Bad Antogast",
+        "date": "04 Aug 1999",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 216,
+        "location": "Bad Antogast",
+        "date": "11 Aug 1999",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 217,
+        "location": "Bangalore Ashram",
+        "date": "19 Aug 1999",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 218,
+        "location": "Bangalore Ashram",
+        "date": "26 Aug 1999",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 219,
+        "location": "Bangalore Ashram",
+        "date": "01 Sep 1999",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 220,
+        "location": "Bangalore Ashram",
+        "date": "09 Sep 1999",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 221,
+        "location": "Bangalore Ashram",
+        "date": "15 Sep 1999",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 222,
+        "location": "Bangalore Ashram",
+        "date": "21 Sep 1999",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 223,
+        "location": "Bangalore Ashram",
+        "date": "06 Oct 1999",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 224,
+        "location": "Bangalore Ashram",
+        "date": "20 Oct 1999",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 225,
+        "location": "Bangalore Ashram",
+        "date": "28 Oct 1999",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 226,
+        "location": "Bangalore Ashram",
+        "date": "04 Nov 1999",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 227,
+        "location": "Rishikesh",
+        "date": "11 Nov 1999",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 228,
+        "location": "Rishikesh",
+        "date": "18 Nov 1999",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 229,
+        "location": "Indore",
+        "date": "26 Nov 1999",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 230,
+        "location": "Pandalam,Kerala",
+        "date": "02 Dec 1999",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 231,
+        "location": "Bangalore Ashram",
+        "date": "09 Dec 1999",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 232,
+        "location": "Bangalore Ashram",
+        "date": "16 Dec 1999",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 233,
+        "location": "Bad Antogast",
+        "date": "23 Dec 1999",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 234,
+        "location": "Carrara",
+        "date": "30 Dec 1999",
+        "country": "Italy",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 235,
+        "location": "Milano",
+        "date": "06 Jan 2000",
+        "country": "Italy",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 236,
+        "location": "German  Ashram,Bad Antogast",
+        "date": "13 Jan 2000",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 237,
+        "location": "Bad Antogast",
+        "date": "20 Jan 2000",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 238,
+        "location": "Dallas, Texas",
+        "date": "27 Jan 2000",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 239,
+        "location": "Oslo",
+        "date": "03 Feb 2000",
+        "country": "Norway",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 240,
+        "location": "Bangalore Ashram",
+        "date": "10 Feb 2000",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 241,
+        "location": "Bangalore Ashram",
+        "date": "17 Feb 2000",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 242,
+        "location": "Bangalore",
+        "date": "24 Feb 2000",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 243,
+        "location": "New Delhi",
+        "date": "02 Mar 2000",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 244,
+        "location": "Rishikesh",
+        "date": "09 Mar 2000",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 245,
+        "location": "Rishikesh",
+        "date": "16 Mar 2000",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 246,
+        "location": "Chandigrah",
+        "date": "23 Mar 2000",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 247,
+        "location": "Delhi",
+        "date": "29 Mar 2000",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 248,
+        "location": "Dharanshala, Himachal",
+        "date": "06 Apr 2000",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 249,
+        "location": "Bangalore Ashram",
+        "date": "13 Apr 2000",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 250,
+        "location": "Bangalore Ashram",
+        "date": "26 Apr 2000",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 251,
+        "location": "Bangalore Ashram",
+        "date": "04 May 2000",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 252,
+        "location": "Denpasar,Bali",
+        "date": "11 May 2000",
+        "country": "Indonesia",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 253,
+        "location": "Taipie",
+        "date": "17 May 2000",
+        "country": "Taiwan",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 254,
+        "location": "Bangalore Ashram",
+        "date": "25 May 2000",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 255,
+        "location": "Banglore Ashram",
+        "date": "01 Jun 2000",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 256,
+        "location": "Bangalore Ashram",
+        "date": "07 Jun 2000",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 257,
+        "location": "Bad Antogast",
+        "date": "15 Jun 2000",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 258,
+        "location": "Halifax",
+        "date": "22 Jun 2000",
+        "country": "Canada",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 259,
+        "location": "Quebec Ashram",
+        "date": "27 Jun 2000",
+        "country": "Canada",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 260,
+        "location": "Quebec Ashram",
+        "date": "05 Jul 2000",
+        "country": "Canada",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 261,
+        "location": "Lake Tahoe,California",
+        "date": "12 Jul 2000",
+        "country": "United States",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 262,
+        "location": "Lake Tahoe,California",
+        "date": "19 Jul 2000",
+        "country": "United States",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 263,
+        "location": "European Ashram,Bad Antogast",
+        "date": "27 Jul 2000",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 264,
+        "location": "European Ashram, Bad Antogast",
+        "date": "03 Aug 2000",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 265,
+        "location": "New Delhi",
+        "date": "10 Aug 2000",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 266,
+        "location": "Bangalore Ashram",
+        "date": "18 Aug 2000",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 267,
+        "location": "European Ashram",
+        "date": "24 Aug 2000",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 268,
+        "location": "New York",
+        "date": "29 Aug 2000",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 269,
+        "location": "Montreal Ashram",
+        "date": "08 Sep 2000",
+        "country": "Canada",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 270,
+        "location": "Agra",
+        "date": "16 Sep 2000",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 271,
+        "location": "Banglore Ashram",
+        "date": "21 Sep 2000",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 272,
+        "location": "Bangalore Ashram",
+        "date": "28 Sep 2000",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 273,
+        "location": "Bangalore Ashram",
+        "date": "07 Oct 2000",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 274,
+        "location": "Bangalore Ashram",
+        "date": "12 Oct 2000",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 275,
+        "location": "Banglore Ashram",
+        "date": "18 Oct 2000",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 276,
+        "location": "Bangalore Ashram",
+        "date": "26 Oct 2000",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 277,
+        "location": "Jamshedpur",
+        "date": "03 Nov 2000",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 278,
+        "location": "Bodh Gaya",
+        "date": "09 Nov 2000",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 279,
+        "location": "New Delhi",
+        "date": "15 Nov 2000",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 280,
+        "location": "European Ashram",
+        "date": "23 Nov 2000",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 281,
+        "location": "European Ashram",
+        "date": "01 Dec 2000",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 282,
+        "location": "Kannur,Kerala",
+        "date": "10 Dec 2000",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 283,
+        "location": "Bangalore Ashram",
+        "date": "15 Dec 2000",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 284,
+        "location": "Bad Anogast",
+        "date": "25 Dec 2000",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 285,
+        "location": "Bad Antogast",
+        "date": "28 Dec 2000",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 286,
+        "location": "Montreal Ashram",
+        "date": "04 Jan 2001",
+        "country": "Canada",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 287,
+        "location": "Canadian Ashram",
+        "date": "11 Jan 2001",
+        "country": "Canada",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 288,
+        "location": "Bad Antogast",
+        "date": "18 Jan 2001",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 289,
+        "location": "Prayag",
+        "date": "26 Jan 2001",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 290,
+        "location": "Enroute to Zurich Airport from Davos",
+        "date": "31 Jan 2001",
+        "country": "Switzerland",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 291,
+        "location": "Bangalore Ashram",
+        "date": "08 Feb 2001",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 292,
+        "location": "Bangalore Ashram",
+        "date": "14 Feb 2001",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 293,
+        "location": "Bangalore Ashram",
+        "date": "22 Feb 2001",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 294,
+        "location": "Udaipur,Jagmandir",
+        "date": "01 Mar 2001",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 295,
+        "location": "Rishikesh",
+        "date": "08 Mar 2001",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 296,
+        "location": "Rishikesh",
+        "date": "15 Mar 2001",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 297,
+        "location": "Rishikesh",
+        "date": "22 Mar 2001",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 298,
+        "location": "Rishikesh",
+        "date": "30 Mar 2001",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 299,
+        "location": "Bali",
+        "date": "05 Apr 2001",
+        "country": "Indonesia",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 300,
+        "location": "Singapore",
+        "date": "12 Apr 2001",
+        "country": "Singapore",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 301,
+        "location": "Hawaii",
+        "date": "17 Apr 2001",
+        "country": "Hawaii",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 302,
+        "location": "Sao Paulo,Brasil",
+        "date": "25 Apr 2001",
+        "country": "Brazil",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 303,
+        "location": "Panama City",
+        "date": "03 May 2001",
+        "country": "Panama",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 304,
+        "location": "Montreal Ashram",
+        "date": "10 May 2000",
+        "country": "Canada",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 305,
+        "location": "European Ashram",
+        "date": "16 May 2001",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 306,
+        "location": "Bangalore Ashram",
+        "date": "24 May 2001",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 307,
+        "location": "Bangalore Ashram",
+        "date": "31 May 2001",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 308,
+        "location": "Bad Antogast",
+        "date": "07 Jun 2001",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 309,
+        "location": "Bad Antogast",
+        "date": "14 Jun 2001",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 310,
+        "location": "Stockholm",
+        "date": "20 Jun 2001",
+        "country": "Sweden",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 311,
+        "location": "Washington DC",
+        "date": "27 Jun 2001",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 312,
+        "location": "Lake Tahoe",
+        "date": "08 Jul 2001",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 313,
+        "location": "Lake Tahoe",
+        "date": "12 Jul 2001",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 314,
+        "location": "Canadian Ashram",
+        "date": "19 Jul 2001",
+        "country": "Canada",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 315,
+        "location": "Canadian Ashram",
+        "date": "26 Jul 2001",
+        "country": "Quebec, Canada",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 316,
+        "location": "European Ashram",
+        "date": "02 Aug 2001",
+        "country": "Akademie Bad Antogast, Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 317,
+        "location": "European Ashram",
+        "date": "09 Aug 2001",
+        "country": "Bad Antogast, Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 318,
+        "location": "Bangalore Ashram",
+        "date": "16 Aug 2001",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 319,
+        "location": "Bangalore Ashram",
+        "date": "23 Aug 2001",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 320,
+        "location": "Bangalore Ashram",
+        "date": "30 Aug 2001",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 321,
+        "location": "Shimla",
+        "date": "13 Sep 2001",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 322,
+        "location": "",
+        "date": "20 Sep 2001",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 323,
+        "location": "",
+        "date": "24 Sep 2001",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 324,
+        "location": "Bad Antogast",
+        "date": "28 Sep 2001",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 325,
+        "location": "Canadian Ashram",
+        "date": "04 Oct 2001",
+        "country": "Canada",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 326,
+        "location": "Bangalore Ashram",
+        "date": "11 Oct 2001",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 327,
+        "location": "Bangalore Ashram",
+        "date": "18 Oct 2001",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 328,
+        "location": "Bangalore Ashram",
+        "date": "29 Oct 2001",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 329,
+        "location": "Bangalosre Ashram",
+        "date": "31 Oct 2001",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 330,
+        "location": "Taipei",
+        "date": "09 Nov 2001",
+        "country": "Taiwan",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 331,
+        "location": "Bangalore Ashram",
+        "date": "15 Nov 2001",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 332,
+        "location": "Bangalore Ashram",
+        "date": "23 Nov 2001",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 333,
+        "location": "Rishikesh",
+        "date": "29 Nov 2001",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 334,
+        "location": "Rishikesh",
+        "date": "07 Dec 2001",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 335,
+        "location": "Bangalore Ashram",
+        "date": "16 Dec 2001",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 336,
+        "location": "Bangalore Ashram",
+        "date": "21 Dec 2001",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 337,
+        "location": "Bad Antogast",
+        "date": "27 Dec 2001",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 338,
+        "location": "Bad Antogast",
+        "date": "04 Jan 2001",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 339,
+        "location": "Austin, Texas",
+        "date": "11 Jan 2002",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 340,
+        "location": "Cascade, Colorado",
+        "date": "16 Jan 2002",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 341,
+        "location": "Canadian Ashram",
+        "date": "24 Jan 2001",
+        "country": "Canada",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 342,
+        "location": "New York City",
+        "date": "02 Feb 2002",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 343,
+        "location": "Bangalore Ashram",
+        "date": "08 Feb 2002",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 344,
+        "location": "Bangalore Ashram",
+        "date": "15 Feb 2002",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 345,
+        "location": "Bangalore Ashram",
+        "date": "22 Feb 2002",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 346,
+        "location": "New Delhi",
+        "date": "04 Mar 2002",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 347,
+        "location": "Rishikesh",
+        "date": "06 Mar 2002",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 348,
+        "location": "Rishikesh",
+        "date": "17 Mar 2002",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 349,
+        "location": "Rishikesh",
+        "date": "22 Mar 2002",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 350,
+        "location": "New Delhi",
+        "date": "31 Mar 2002",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 351,
+        "location": "Gangtok, Sikkim",
+        "date": "07 Apr 2002",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 352,
+        "location": "Bangalore Ashram",
+        "date": "16 Apr 2002",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 353,
+        "location": "Bangalore Ashram",
+        "date": "17 Apr 2002",
+        "country": "Inda",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 354,
+        "location": "Boston, MA",
+        "date": "27 Apr 2002",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 355,
+        "location": "Palo Alto, California",
+        "date": "11 May 2002",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 356,
+        "location": "Jakarta",
+        "date": "23 May 2002",
+        "country": "Java",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 357,
+        "location": "Jakarta",
+        "date": "26 May 2002",
+        "country": "Java",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 358,
+        "location": "Bangalore",
+        "date": "17 Jun 2002",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 359,
+        "location": "Washington DC",
+        "date": "01 Jul 2002",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 360,
+        "location": "Washington DC",
+        "date": "02 Jul 2002",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 361,
+        "location": "Washington DC",
+        "date": "03 Jul 2002",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 362,
+        "location": "Undisclosed",
+        "date": "11 Jul 2002",
+        "country": "USA",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 363,
+        "location": "Bad Antogast",
+        "date": "06 Aug 2002",
+        "country": "Germany",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 364,
+        "location": "North American Ashram, Montreal",
+        "date": "17 Jul 2002",
+        "country": "Canada",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    },
+    {
+        "week_number": 365,
+        "location": "New Delhi",
+        "date": "05 Sep 2002",
+        "country": "India",
+        "title": "",
+        "text": "",
+        "news_flash": null
+    }
+]
