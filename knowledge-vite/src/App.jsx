@@ -63,6 +63,7 @@ function App() {
               <div className="card-header">
                 <h1 className="card-main-title">Knowledge by Sri Sri</h1>
                 <div className="card-subheader">
+                  <span className="card-subtitle">Knowledge Sheet from {currentSheet.country}</span>
                   <span className="card-date">
                     {currentSheet.date} — {currentSheet.location}, {currentSheet.country}
                   </span>
