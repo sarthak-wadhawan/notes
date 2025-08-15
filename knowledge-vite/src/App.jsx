@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import sheets from "./knowledge_sheets.json";
 import "./App.css";
+import { Analytics } from '@vercel/analytics/react'
 
 function App() {
   const [currentSheet, setCurrentSheet] = useState(null);
@@ -18,6 +19,8 @@ function App() {
   };
 
   return (
+    <>
+    <Analytics />
     <div className="app-container">
       {showLanding ? (
         <div className="landing-container">
@@ -92,6 +95,7 @@ function App() {
         </>
       )}
     </div>
+    </>
   );
 }
 
