@@ -107,11 +107,6 @@ body {
   align-items: center;
   font-size: 0.9rem;
 }
-
-.card-subtitle {
-  font-style: italic;
-}
-
 .card-date {
   opacity: 0.9;
 }
