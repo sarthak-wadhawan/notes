@@ -3,7 +3,7 @@ import sheets from "./knowledge_sheets.json";
 import "./App.css";
 import { Analytics } from '@vercel/analytics/react'
 
-function App() {
+export default function App() {
   const [currentSheet, setCurrentSheet] = useState(null);
   const [showLanding, setShowLanding] = useState(true);
 
@@ -18,9 +18,8 @@ function App() {
     setShowLanding(true);
   };
 
-  return (
-    <>
-    <Analytics />
+return (
+    
     <div className="app-container">
       {showLanding ? (
         <div className="landing-container">
@@ -94,9 +93,7 @@ function App() {
           )}
         </>
       )}
+    <Analytics />
     </div>
-    </>
   );
-}
-
-export default App;
+};
